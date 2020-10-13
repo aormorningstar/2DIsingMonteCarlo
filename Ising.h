@@ -1,5 +1,5 @@
 /*
-Ising.h
+ising.h
 Ising class header file
 2D Ising Model MC Simulation
 Alan Morningstar

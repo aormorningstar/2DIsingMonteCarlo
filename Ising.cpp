@@ -1,5 +1,5 @@
 /*
-Ising.cpp
+ising.cpp
 source for Ising class
 2D Ising Model MC Simulation
 Alan Morningstar
@@ -14,8 +14,8 @@ November 2016
 #include <algorithm>
 #include <random>
 #include <string>
-#include "Ising.h"
-#include "IsingUtils.h"
+#include "ising.h"
+#include "isingutils.h"
 
 using namespace std;
 using namespace IsingUtils;

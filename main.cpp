@@ -7,7 +7,7 @@ note: compile with c++11
 */
 
 #include <iostream>
-#include "Ising.h"
+#include "ising.h"
 #include <string>
 
 int main(){
